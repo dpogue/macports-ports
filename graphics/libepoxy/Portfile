@@ -20,6 +20,8 @@ checksums           rmd160  0c12937f3ab3645d4b1b96f29ffd2fb5ffc92712 \
                     sha256  b3e076c5bea209ffa7789cb460d76718be206ccad65a8c915757957c76318376 \
                     size    332119
 
+set python_vers     3.10
+
 depends_build       port:pkgconfig \
                     port:python310
 
